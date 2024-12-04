@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guonodev
 - 👀 I’m interested in Urhobo
-- 🌱 I’m currently learning rhobo
+- 🌱 I’m currently learning Urhobo
 - 💞️ I’m looking to collaborate on Urhobo related projects
 - 📫 How to reach me: mavo@guono.net
 - ⚡ Fun fact: 
